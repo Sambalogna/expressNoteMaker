@@ -27,8 +27,8 @@ This project does not require installation as it is deployed on a heroku server.
 
 ## Usage:
 
-This app is useful for generating and storing notes for later use. 
- 
+This app is useful for generating and storing notes for later use.
+
 ## License: [!['License: MIT'](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is covered under the The MIT License 
