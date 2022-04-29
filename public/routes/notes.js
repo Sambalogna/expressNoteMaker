@@ -24,8 +24,5 @@ notes.post('/',(req,res)=>{
         res.error('uhh oh samuel')
     }
 });
-app.use(notes.get('/:', (req,res)=>{
-    const {note_id,} = res.body
-}))
 
 module.exports = notes;
